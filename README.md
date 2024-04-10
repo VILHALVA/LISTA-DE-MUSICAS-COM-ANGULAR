@@ -50,8 +50,7 @@ Este app é uma aplicação de gerenciamento de músicas, onde os usuários pode
    ```
     http://localhost:3000/musics
    ```
-   - Se não estiver familiarizado com esse processo, confira este [curso](https://github.com/VILHALVA/CURSO-DE-REST-API) para obter orientações detalhadas.
-
+   
 4. **Executando o Aplicativo:**
    - Para subir o servidor, no diretório `CODIGO`, abra outro Terminal/CMD e digite o seguinte comando:
    ```bash
